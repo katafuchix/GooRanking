@@ -1,0 +1,14 @@
+#Xcode
+*.xcworkspace
+xcuserdata
+
+#CocoaPod
+Pods/*
+Podfile.lock
+
+Build/*
+
+R.generated.swift
+
+# Firebase setting file
+GoogleService-Info*.plist
